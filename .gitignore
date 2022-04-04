@@ -1,0 +1,14 @@
+.DS_Store
+*.exe 
+*.info 
+*.out 
+*.txt 
+*.o 
+*.gcno 
+*.gcda 
+*.gcov
+*.json
+.vscode
+*.py
+*.png
+*.html
