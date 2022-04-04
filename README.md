@@ -1,4 +1,4 @@
-# project2-team-5
+# CPU-bound I/O bound Simulation
 ##
 ## Running the program
 ### To compile the program: 
